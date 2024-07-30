@@ -1,4 +1,4 @@
-# swisstronik-private-erc721
+# Swisstronik-Private-NFT
 
 This project sets up a Hardhat environment to deploy and interact with an ERC-721 (NFT) contract and makes it private, on the Swisstronik testnet. Follow the steps below to get started.
 
